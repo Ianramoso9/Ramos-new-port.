@@ -1,0 +1,14 @@
+/* Light Violet Portfolio Theme — append to the END of your existing CSS */
+:root {
+  --paper: #F3ECFF;
+  --green: #C4A1FF;
+  --green-dark: #58318A;
+  --electric: #B388FF;
+}
+body { background: #F3ECFF; background-image: none; }
+.hero { background: linear-gradient(135deg, #F3ECFF, #E2CEFF); }
+.section-muted, .resume-section { background: #EDE0FF; }
+.contact-section { background: #E5D3FF; }
+.site-header { background: rgba(243,236,255,.94); }
+.orb-one { background: #DCC3FF; }
+.orb-two { background: #BB92F5; }
